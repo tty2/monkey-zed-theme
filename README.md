@@ -13,4 +13,4 @@ from repo folder
 
 # Look
 
-<img src="assets/screen.png" width="700">
+<img src="assets/screen.png" width="900">
