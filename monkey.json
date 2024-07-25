@@ -18,17 +18,17 @@
         "background": "#152126",
 
         "element.background": "#75715E",
-        "element.hover": "#272822",
+        "element.hover": "#111b1f",
         "element.active": null,
         "element.selected": "#75715E",
         "element.disabled": null,
 
         "drop_target.background": "#111b1f",
-
+        // autocomplete dialog
         "ghost_element.background": null,
         "ghost_element.hover": "#15242e",
         "ghost_element.active": null,
-        "ghost_element.selected": "#182c38",
+        "ghost_element.selected": "#15242e",
         "ghost_element.disabled": null,
 
         "text": "#F8F8F2",
@@ -72,7 +72,7 @@
         "editor.invisible": null,
         "editor.wrap_guide": "#111b1f",
         "editor.active_wrap_guide": "#111b1f",
-        "editor.document_highlight.read_background": null,
+        "editor.document_highlight.read_background": "#152126",
         "editor.document_highlight.write_background": null,
 
         "terminal.background": "#152126",
